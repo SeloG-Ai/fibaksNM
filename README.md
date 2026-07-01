@@ -1,4 +1,4 @@
-# Fibaks Sürat Kargo Entegrasyon Modülü - Teknik İnceleme Kılavuzu
+﻿# Fibaks Sürat Kargo Entegrasyon Modülü - Teknik İnceleme Kılavuzu
 
 Bu klasör, Fibaks ile Sürat Kargo Acente Arayüzü arasında veri akışı sağlayan otomasyon uygulamasının kodlarını ve ayarlarını içerir. Sürat Kargo Genel Merkez IT ekibinin incelemesi için sade ve anlaşılır şekilde hazırlanmıştır.
 

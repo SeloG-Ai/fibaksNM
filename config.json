@@ -1,0 +1,39 @@
+﻿{
+    "kargo_pencere_adi": "Surat Kargo Mock Acente Yazilimi",
+    "api_ayarlari": {
+        "port": 8080,
+        "whatsapp_webhook_url": "http://localhost:5000/webhook"
+    },
+    "firebase_ayarlari": {
+        "aktif": false,
+        "database_url": "https://fibaks-86d9c-default-rtdb.firebaseio.com/",
+        "auth_token": ""
+    },
+    "sql_server_ayarlari": {
+        "aktif": true,
+        "connection_string": "Server=192.168.99.1;Database=FibaksKargo;User ID=kargo_user;Password=KargoSifre123;TrustServerCertificate=True;"
+    },
+    "bekleme_sureleri": {
+        "islem_arasi_gecikme_ms": 1000,
+        "akilli_bekleme_limit_ms": 5000,
+        "pencere_odaklama_ms": 500
+    },
+    "uia_ayarlari": {
+        "siparis_input": {
+            "control_type": "Edit",
+            "index": 0
+        },
+        "sorgula_buton": {
+            "control_type": "Button",
+            "name": "Sorgula"
+        },
+        "adres_output": {
+            "control_type": "Edit",
+            "index": 1
+        },
+        "durum_label": {
+            "control_type": "Text",
+            "index": 1
+        }
+    }
+}
